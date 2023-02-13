@@ -20,6 +20,9 @@ h2{
 }
 
 .container{
+    position: relative;
+    top: 100px;
+    left: 100px;
     text-align: center;
     width: 300px;
     max-width: 1440px;
